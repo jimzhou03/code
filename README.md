@@ -47,7 +47,7 @@ python3 change.py
 根据微调后的检查点继续训练：
 sh train.sh
 
-4. 生成预测结果
+4. 生成预测结果：
 python3 submit.py
 
 # 项目结构
